@@ -1,0 +1,10 @@
+﻿  26.10.c
+c:\users\macie\onedrive\desktop\projekty\26\26.10\26.10\26.10.c(139): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: zobacz deklarację „scanf”
+c:\users\macie\onedrive\desktop\projekty\26\26.10\26.10\26.10.c(154): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: zobacz deklarację „scanf”
+c:\users\macie\onedrive\desktop\projekty\26\26.10\26.10\26.10.c(163): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: zobacz deklarację „scanf”
+c:\users\macie\onedrive\desktop\projekty\26\26.10\26.10\26.10.c(185): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: zobacz deklarację „scanf”
+  26.10.vcxproj -> C:\Users\macie\OneDrive\Desktop\Projekty\26\26.10\Debug\26.10.exe

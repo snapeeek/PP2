@@ -1,0 +1,8 @@
+﻿  sauce.c
+c:\users\macie\onedrive\desktop\projekty\23\23.23\23.23\sauce.c(9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: zobacz deklarację „fopen”
+c:\users\macie\onedrive\desktop\projekty\23\23.23\23.23\sauce.c(8): warning C4101: "inside": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\macie\onedrive\desktop\projekty\23\23.23\23.23\sauce.c(22): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: zobacz deklarację „scanf”
+c:\users\macie\onedrive\desktop\projekty\23\23.23\23.23\sauce.c(16): warning C4715: "read_file”: niewszystkie ścieżki kodu zwracają wartość
+  23.23.vcxproj -> C:\Users\macie\OneDrive\Desktop\Projekty\23\23.23\Debug\23.23.exe

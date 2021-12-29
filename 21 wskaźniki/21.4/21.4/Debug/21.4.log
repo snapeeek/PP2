@@ -1,0 +1,3 @@
+﻿  21.4.c
+c:\users\maciek\desktop\projekty\21\21.4\21.4\21.4.c(7): warning C4244: "funkcja": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  21.4.vcxproj -> C:\Users\Maciek\Desktop\Projekty\21\21.4\Debug\21.4.exe

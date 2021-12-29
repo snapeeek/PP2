@@ -1,0 +1,20 @@
+﻿  Źródło.c
+c:\users\maciek\desktop\projekty\22\project1\project1\źródło.c(1): error C2059: błąd składniowy: „for”
+c:\users\maciek\desktop\projekty\22\project1\project1\źródło.c(1): error C2143: błąd składniowy: brakuje „)” przed „+”
+c:\users\maciek\desktop\projekty\22\project1\project1\źródło.c(1): error C2059: błąd składniowy: „)”
+c:\users\maciek\desktop\projekty\22\project1\project1\źródło.c(2): error C2449: znaleziono „{” w zakresie pliku (brak nagłówka funkcji?)
+c:\users\maciek\desktop\projekty\22\project1\project1\źródło.c(7): error C2059: błąd składniowy: „}”
+c:\users\maciek\desktop\projekty\22\project1\project1\źródło.c(10): error C2143: błąd składniowy: brakuje „)” przed „+”
+c:\users\maciek\desktop\projekty\22\project1\project1\źródło.c(10): error C2143: błąd składniowy: brakuje „{” przed „+”
+c:\users\maciek\desktop\projekty\22\project1\project1\źródło.c(10): error C2059: błąd składniowy: „+”
+c:\users\maciek\desktop\projekty\22\project1\project1\źródło.c(10): error C2059: błąd składniowy: „)”
+c:\users\maciek\desktop\projekty\22\project1\project1\źródło.c(10): error C2143: błąd składniowy: brakuje „{” przed „--”
+c:\users\maciek\desktop\projekty\22\project1\project1\źródło.c(10): error C2059: błąd składniowy: „--”
+c:\users\maciek\desktop\projekty\22\project1\project1\źródło.c(19): error C2059: błąd składniowy: „return”
+c:\users\maciek\desktop\projekty\22\project1\project1\źródło.c(20): error C2059: błąd składniowy: „}”
+c:\users\maciek\desktop\projekty\22\project1\project1\źródło.c(47): warning C4013: niezdefiniowany "printf"; przy założeniu, że extern zwraca int
+c:\users\maciek\desktop\projekty\22\project1\project1\źródło.c(48): warning C4013: niezdefiniowany "fgets"; przy założeniu, że extern zwraca int
+c:\users\maciek\desktop\projekty\22\project1\project1\źródło.c(48): error C2065: "stdin": niezadeklarowany identyfikator
+c:\users\maciek\desktop\projekty\22\project1\project1\źródło.c(49): warning C4013: niezdefiniowany "change_letter_size"; przy założeniu, że extern zwraca int
+c:\users\maciek\desktop\projekty\22\project1\project1\źródło.c(50): warning C4013: niezdefiniowany "strlen"; przy założeniu, że extern zwraca int
+c:\users\maciek\desktop\projekty\22\project1\project1\źródło.c(51): warning C4013: niezdefiniowany "usun_spacje"; przy założeniu, że extern zwraca int

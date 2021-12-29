@@ -1,0 +1,2 @@
+To jest przykladowy tekst w pliku.
+A to jest druga linia w pliku.

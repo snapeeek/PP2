@@ -1,0 +1,5 @@
+﻿  22.6.c
+c:\users\maciek\desktop\projekty\22\22.6\22.6\22.6.c(25): warning C4101: "ptxt2": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\maciek\desktop\projekty\22\22.6\22.6\22.6.c(26): warning C4101: "size": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\maciek\desktop\projekty\22\22.6\22.6\22.6.c(25): warning C4101: "ptxt1": lokalna zmienna, do której nie istnieje odwołanie
+  22.6.vcxproj -> C:\Users\Maciek\Desktop\Projekty\22\22.6\Debug\22.6.exe

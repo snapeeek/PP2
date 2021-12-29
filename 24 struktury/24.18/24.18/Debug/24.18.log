@@ -1,0 +1,4 @@
+﻿  24.18.c
+c:\users\maciek\desktop\projekty\24\24.18\24.18\24.18.c(18): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: zobacz deklarację „fopen”
+  24.18.vcxproj -> C:\Users\Maciek\Desktop\Projekty\24\24.18\Debug\24.18.exe

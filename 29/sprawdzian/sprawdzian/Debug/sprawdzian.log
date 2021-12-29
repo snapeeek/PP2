@@ -1,0 +1,6 @@
+﻿  Źródło.c
+c:\users\maciek\desktop\projekty\29\sprawdzian\sprawdzian\źródło.c(8): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\maciek\desktop\projekty\29\sprawdzian\sprawdzian\źródło.c(18): error C2036: "void *": nieznany rozmiar
+c:\users\maciek\desktop\projekty\29\sprawdzian\sprawdzian\źródło.c(18): error C2100: niedozwolony operator pośredni
+c:\users\maciek\desktop\projekty\29\sprawdzian\sprawdzian\źródło.c(18): error C2171: "~": niedozwolone na operandach typu "void *"
+c:\users\maciek\desktop\projekty\29\sprawdzian\sprawdzian\źródło.c(18): error C2106: "=": lewy operand musi być wartością l

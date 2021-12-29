@@ -1,0 +1,12 @@
+﻿  28.6.c
+c:\users\maciek\desktop\projekty\28\28.6\28.6\28.6.c(41): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: zobacz deklarację „scanf”
+c:\users\maciek\desktop\projekty\28\28.6\28.6\28.6.c(678): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: zobacz deklarację „strcpy”
+c:\users\maciek\desktop\projekty\28\28.6\28.6\28.6.c(756): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: zobacz deklarację „strcpy”
+c:\users\maciek\desktop\projekty\28\28.6\28.6\28.6.c(779): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: zobacz deklarację „strcpy”
+c:\users\maciek\desktop\projekty\28\28.6\28.6\28.6.c(802): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: zobacz deklarację „strcpy”
+  28.6.vcxproj -> C:\Users\Maciek\Desktop\Projekty\28\28.6\Debug\28.6.exe

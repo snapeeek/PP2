@@ -1,0 +1,28 @@
+﻿  27.7.c
+c:\users\maciek\desktop\projekty\27\27.7\27.7\27.7.c(47): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: zobacz deklarację „scanf”
+c:\users\maciek\desktop\projekty\27\27.7\27.7\27.7.c(151): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: zobacz deklarację „fopen”
+c:\users\maciek\desktop\projekty\27\27.7\27.7\27.7.c(169): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: zobacz deklarację „fscanf”
+c:\users\maciek\desktop\projekty\27\27.7\27.7\27.7.c(180): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: zobacz deklarację „fscanf”
+c:\users\maciek\desktop\projekty\27\27.7\27.7\27.7.c(218): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: zobacz deklarację „fscanf”
+c:\users\maciek\desktop\projekty\27\27.7\27.7\27.7.c(234): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: zobacz deklarację „fscanf”
+c:\users\maciek\desktop\projekty\27\27.7\27.7\27.7.c(281): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: zobacz deklarację „fopen”
+c:\users\maciek\desktop\projekty\27\27.7\27.7\27.7.c(435): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: zobacz deklarację „strcpy”
+c:\users\maciek\desktop\projekty\27\27.7\27.7\27.7.c(436): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(89): note: zobacz deklarację „strcat”
+c:\users\maciek\desktop\projekty\27\27.7\27.7\27.7.c(441): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: zobacz deklarację „strcpy”
+c:\users\maciek\desktop\projekty\27\27.7\27.7\27.7.c(442): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(89): note: zobacz deklarację „strcat”
+c:\users\maciek\desktop\projekty\27\27.7\27.7\27.7.c(447): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: zobacz deklarację „strcpy”
+c:\users\maciek\desktop\projekty\27\27.7\27.7\27.7.c(448): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(89): note: zobacz deklarację „strcat”
+  27.7.vcxproj -> C:\Users\Maciek\Desktop\Projekty\27\27.7\Debug\27.7.exe

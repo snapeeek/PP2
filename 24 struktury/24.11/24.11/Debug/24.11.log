@@ -1,0 +1,8 @@
+﻿  24.11.c
+c:\users\maciek\desktop\projekty\24\24.11\24.11\24.11.c(48): warning C4047: "==": "FILE *" różni się w poziomach operatorów pośrednich od "int"
+c:\users\maciek\desktop\projekty\24\24.11\24.11\24.11.c(40): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: zobacz deklarację „scanf”
+c:\users\maciek\desktop\projekty\24\24.11\24.11\24.11.c(41): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: zobacz deklarację „fopen”
+c:\users\maciek\desktop\projekty\24\24.11\24.11\24.11.c(37): warning C4101: "temp": lokalna zmienna, do której nie istnieje odwołanie
+  24.11.vcxproj -> C:\Users\Maciek\Desktop\Projekty\24\24.11\Debug\24.11.exe

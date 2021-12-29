@@ -1,0 +1,6 @@
+﻿  29.4.c
+c:\users\maciek\desktop\projekty\29\29.4\29.4\29.4.c(13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: zobacz deklarację „scanf”
+c:\users\maciek\desktop\projekty\29\29.4\29.4\29.4.c(22): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: zobacz deklarację „scanf”
+  29.4.vcxproj -> C:\Users\Maciek\Desktop\Projekty\29\29.4\Debug\29.4.exe
